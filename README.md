@@ -6,4 +6,4 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaeldeoliveira&layout-compact&langs_count=16&theme=dracula"/>
 </div>
 
-[![My Skills](https://skillicons.dev/icons?i=react,js,scss,spring,java,docker,aws,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,redux,scss,spring,hibernate,docker,aws,postgres)](https://skillicons.dev)
